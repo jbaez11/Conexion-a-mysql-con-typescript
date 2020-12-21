@@ -1,6 +1,6 @@
-## Reestructuracion Tableros
+## Conexion a mysql con typescript
 
-aplicacion la cual lee informacion de una base de datos y genera las graficas 
+aplicacion la cual lee informacion de una base de datos utilizando typescript 
 
 Instalacion 
 
